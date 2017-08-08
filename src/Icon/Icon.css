@@ -1,0 +1,23 @@
+.icon{
+	width: 1.2em;
+	height: 1.2em;
+	fill: currentColor;
+	vertical-align: -0.24em;
+}
+
+.icon--red{
+	fill: red;
+}
+
+.icon--flipped{
+  transform: rotate(180deg);
+}
+
+.icon--lg{
+  width: 21px;
+  height: 21px;
+}
+
+.u-margin-left{
+  margin-left: 5px;
+}
